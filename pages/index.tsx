@@ -1,3 +1,4 @@
+import * as web3 from '@solana/web3.js'
 import type { NextPage } from 'next'
 import { useState } from 'react'
 import Head from 'next/head'
